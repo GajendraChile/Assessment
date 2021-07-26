@@ -3,3 +3,7 @@
 ################################################################################
 
 /SEDOLValidator/bin/Debug/netcoreapp3.1
+/SEDOLValidator/obj
+/SEDOLValidatorTests/obj
+/SEDOLValidatorTests/bin/Debug/netcoreapp3.1
+/.vs
